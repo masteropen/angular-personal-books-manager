@@ -1,18 +1,23 @@
-# FirstProject
+## Personal books manager
+
+A simple application that lists the books you have at home, in your library. You can add a photo of each book. The user must be authenticated to use the application.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
 
-## Development server
+## Prerequisites
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- nodejs
+- npm package manager
 
-## Code scaffolding
+Then you should install `Angular CLI` if it's not already exists.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Running application
 
-## Build
+1. Clone this repository : `https://github.com/masteropen/angular-personal-books-manager.git`.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+2. `cd angular-personal-books-manager` and run `ng serve` for a dev server.
+
+3. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Running unit tests
 
