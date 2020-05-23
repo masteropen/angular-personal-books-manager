@@ -5,19 +5,22 @@ A simple application that lists the books you have at home, in your library. You
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
 
 ## Prerequisites
+To be able to run this application, you need these dependencies
 
-- nodejs
+- nodejs >=v10.13
 - npm package manager
 
-Then you should install `Angular CLI` if it's not already exists.
+Then install Angular CLI `npm install @angular/cli@9.1.5` (add `-g` option if you want install Angular CLI globally).
 
 ## Running application
 
-1. Clone this repository : `https://github.com/masteropen/angular-personal-books-manager.git`.
+1. Clone this repository : `git clone https://github.com/masteropen/angular-personal-books-manager.git`
 
-2. `cd angular-personal-books-manager` and run `ng serve` for a dev server.
+2. Install dependencies `npm install`
+ 
+3. Run Angular built-in dev server `ng serve`
 
-3. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+4. Navigate to `http://localhost:4200`. The app will automatically reload if you change any of the source files.
 
 ## Running unit tests
 
